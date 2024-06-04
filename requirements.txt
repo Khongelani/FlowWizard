@@ -196,3 +196,4 @@ wsproto==1.2.0
 yarl==1.9.2
 zict==3.0.0
 zipp==3.12.2
+tensorflow-estimator==2.15.0
